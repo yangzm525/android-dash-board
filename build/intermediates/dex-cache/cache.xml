@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_d32dd18cda104695da5aca59fe50cb291d1200a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_9c9291e304440731c739d1e4061f1ec90a2d5fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_5386eb6e8f47cb7110fab4e49076d3425d1f6d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_5cd874332e429a5afacc75bd0fdc12a229ba38b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangzemin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_10d4132da39d285e9c6d9d149f2491e7673fc8f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_97289aa8fc6d53c5b356e8252adfc816d439b685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_10c8477fbd9dd6aab27d1044d6fca42934e3cc82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_d75c9a352f95caed2be957b8978319f0339ee457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_de011090a762b2ad6f3eba8d6c4cc839e7c1ed1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/yangzemin/workspace/ad_demo/DashboardDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_7cfa014b9e7db0c6df8c79067c8afbb5708cfafb.jar" />
+    </item>
+
+</items>
