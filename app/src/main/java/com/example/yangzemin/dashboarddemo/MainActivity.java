@@ -11,8 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         DashBoardView boardView = (DashBoardView) findViewById(R.id.dashBoardView);
-        boardView.setValues(1, 50);
+        boardView.setValues(0, 180);
 
-        boardView.setCurrentValue(31);
+        boardView.setCurrentValue(60);
     }
 }

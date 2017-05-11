@@ -317,7 +317,7 @@ public class DashBoardView extends View {
     private int measureSize(int measureSpec) {
         int specMode = MeasureSpec.getMode(measureSpec);
         int specSize = MeasureSpec.getSize(measureSpec);
-        //设置一个默认值，就是这个View的默认宽度为500，这个看我们自定义View的要求
+        //设置一个默认值，就是这个View的默认宽度为220dp，这个看我们自定义View的要求
         int result = dpToPx(110) * 2;
         if (specMode == MeasureSpec.AT_MOST) {//相当于我们设置为wrap_content
             result = specSize < result ? result : specSize;
@@ -389,7 +389,9 @@ public class DashBoardView extends View {
         float scale = (currentValue - minValue) / (maxValue - minValue);
         currentValueAngle = sweepAngle * scale;
 
-//        initPointer();
+        if (null != centerPoint) {
+            initPointer();
+        }
         invalidate();
     }
 }
